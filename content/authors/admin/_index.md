@@ -1,7 +1,7 @@
 ---
 title: Mahmoud Ali
 role: PhD student in computer vision
-avatar_filename: ocr_logo.png
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
