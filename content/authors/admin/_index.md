@@ -19,7 +19,7 @@ social:
       header: false
     icon_pack: fab
     link: https://leetcode.com/mahmoudali2929/
-    icon: Leetcode
+    icon: leetcode
 organizations:
   - name: École Centrale de Lyon
     url: https://www.ec-lyon.fr/
