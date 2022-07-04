@@ -9,35 +9,26 @@ interests:
   - Computational Linguistics
   - Information Retrieval
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Mahmoud-Ali-FCIS
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/mahmoud-ali-5b1938b8/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: École Centrale de Lyon
+    url: https://www.ec-lyon.fr/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Vision
+      institution: École Centrale de Lyon
+      year: 2022
+    - course: MSc in Computer Vision and Robotics
+      institution: Université Grenoble Alpes
+      year: 2021
+    - course: BSc in Computer Science
+      institution: Ain Shams University
+      year: 2016
 email: ""
 superuser: true
 highlight_name: true
