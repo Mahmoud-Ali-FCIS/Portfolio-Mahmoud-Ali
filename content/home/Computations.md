@@ -30,7 +30,8 @@ experience:
     location: Dejon, France
     date_start: '2022-04-10'
     date_end: ''
-    description: |2- Robonomics: developing an innovative solution in nursing homes with a system capable of performing a semantic similarity analysis on texts and images.
+    description: |2-
+        Robonomics: developing an innovative solution in nursing homes with a system capable of performing a semantic similarity analysis on texts and           images.
     
   - title: atathon DATACARE #2 -IA Santé
     company: Université de Bourgogne
