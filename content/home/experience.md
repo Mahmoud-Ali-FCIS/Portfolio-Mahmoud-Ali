@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 40
 
 title: Experience
 subtitle:
@@ -101,5 +101,5 @@ experience:
     description: Taught electronic engineering and researched semiconductor physics.
     
 design:
-  columns: '8'
+  columns: '2'
 ---
