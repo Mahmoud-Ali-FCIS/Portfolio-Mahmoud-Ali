@@ -44,16 +44,7 @@ experience:
     date_start: '2021-10-01'
     date_end: '2021-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
-    
-  - title: Computer Vision Researcher 
-    company: INRIA 
-    company_url: 'https://www.inria.fr/en/centre-inria-grenoble-rhone-alpes'
-    company_logo: org-inria
-    location: Grenoble, France
-    date_start: '2021-02-15'
-    date_end: '2021-08-15'
-    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
-  columns: '3'
+  columns: '2'
 ---
