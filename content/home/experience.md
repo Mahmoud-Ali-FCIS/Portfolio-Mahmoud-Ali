@@ -39,7 +39,7 @@ experience:
   - title: Computer Vision Researcher 
     company: Hubert Curien Lab 
     company_url: 'https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html'
-    company_logo: org-x
+    company_logo: org-hub
     location: Saint-Étienne, France
     date_start: '2021-10-01'
     date_end: '2021-12-31'
