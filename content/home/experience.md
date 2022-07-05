@@ -26,7 +26,7 @@ experience:
   - title: PhD student in Computer Vision 
     company: LIRIS
     company_url: 'https://liris.cnrs.fr/'
-    company_logo: org-liris
+    company_logo: test
     location: Lyon, France
     date_start: '2022-01-01'
     date_end: ''
