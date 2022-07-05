@@ -26,7 +26,7 @@ experience:
   - title: PhD student in Computer Vision 
     company: LIRIS
     company_url: 'https://liris.cnrs.fr/'
-    company_logo: test
+    company_logo: liris
     location: Lyon, France
     date_start: '2022-01-01'
     date_end: ''
@@ -40,7 +40,7 @@ experience:
   - title: Computer Vision Researcher 
     company: Hubert Curien Lab 
     company_url: 'https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html'
-    company_logo: org-hub
+    company_logo: her
     location: Saint-Étienne, France
     date_start: '2021-10-01'
     date_end: '2021-12-31'
@@ -49,7 +49,7 @@ experience:
   - title: Computer Vision Researcher 
     company: INRIA 
     company_url: 'https://www.inria.fr/fr/centre-inria-grenoble-rhone-alpes'
-    company_logo: org-inria
+    company_logo: inria
     location: Grenoble, France
     date_start: '2021-02-15'
     date_end: '2021-08-15'
@@ -58,7 +58,7 @@ experience:
   - title: Master Student (Computer vision and Robotics) [MOSIG]
     company: Université Grenoble Alpes 
     company_url: 'https://www.univ-grenoble-alpes.fr/'
-    company_logo: org-uga
+    company_logo: uga
     location: Grenoble, France
     date_start: '2020-09-15'
     date_end: '2021-02-05'
@@ -67,7 +67,7 @@ experience:
   - title: Master Student (Computer vision and Robotics) [VIBOT] 
     company: Université de Bourgogne 
     company_url: 'https://www.u-bourgogne.fr/'
-    company_logo: org-bor
+    company_logo: bor
     location: Le Creusot, France
     date_start: '2019-09-15'
     date_end: '2020-07-15'
@@ -76,7 +76,7 @@ experience:
   - title: Computer vision Engineer 
     company: DevisionX 
     company_url: 'https://devisionx.com/'
-    company_logo: org-dev
+    company_logo: dev
     location: Cairo, Egypt
     date_start: '2018-11-01'
     date_end: '2019-06-30'
@@ -85,7 +85,7 @@ experience:
   - title: Computer Vision Researcher 
     company: Ain Shams University 
     company_url: 'https://www.asu.edu.eg/'
-    company_logo: org-fcis
+    company_logo: ain
     location: Cairo, Egypt
     date_start: '2017-09-01'
     date_end: '2018-06-15'
@@ -94,7 +94,7 @@ experience:
   - title: Computer Vision Researcher 
     company: Ain Shams University 
     company_url: 'https://www.asu.edu.eg/'
-    company_logo: org-fcis
+    company_logo: ain
     location: Cairo, Egypt
     date_start: '2012-09-01'
     date_end: '2016-06-15'
