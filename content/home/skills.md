@@ -16,12 +16,12 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
+  - description:
     icon: r-project
     icon_pack: fab
     name: R
     
-  - description: 90%
+  - description:
     icon: python
     icon_pack: fab
     name: Python
@@ -45,6 +45,46 @@ feature:
     icon: bitbucket
     icon_pack: fab
     name: Bitbucket
+            
+  - description:
+    icon: raspberry-pi
+    icon_pack: fab
+    name: Raspberry-pi
+            
+  - description:
+    icon: linux
+    icon_pack: fab
+    name: Linux
+            
+  - description:
+    icon: windows
+    icon_pack: fab
+    name: Windows
+            
+  - description:
+    icon: docker
+    icon_pack: fab
+    name: Docker
+                
+  - description:
+    icon: c-plus
+    icon_pack: custom
+    name: C++
+                
+  - description:
+    icon: c-sharp
+    icon_pack: custom
+    name: C#
+                
+  - description:
+    icon: matlab
+    icon_pack: custom
+    name: Matlab
+       
+  - description:
+    icon: julia
+    icon_pack: custom
+    name: Julia
     
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
