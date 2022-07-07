@@ -20,8 +20,7 @@ social:
     link: https://leetcode.com/mahmoudali2929/
   - icon: hkr
     icon_pack: custom
-    link: https://leetcode.com/mahmoudali2929/
-
+    link: https://www.hackerrank.com/MahmoudAhmedAli
 organizations:
   - name: École Centrale de Lyon
     url: https://www.ec-lyon.fr/
