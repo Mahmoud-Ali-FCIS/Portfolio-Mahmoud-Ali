@@ -3,7 +3,7 @@ widget: slider
 weight: 55
 active: true
 headless: true
-
+title: Workshops
 design:
   # Slide height is automatic unless you force a specific height (e.g. '400px')
   slide_height: ''
