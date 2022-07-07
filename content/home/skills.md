@@ -71,11 +71,6 @@ feature:
     icon_pack: fab
     name: Docker
     
-  - icon: "julia"
-    icon_pack: "custom"
-    name: "Julia"
-    description: ""
-
   - description:
     icon: c-plus
     icon_pack: custom
