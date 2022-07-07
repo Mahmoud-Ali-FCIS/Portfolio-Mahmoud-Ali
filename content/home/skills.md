@@ -33,11 +33,6 @@ feature:
     name: C#
     
   - description:
-    icon: r-project
-    icon_pack: fab
-    name: R
-    
-  - description:
     icon: matlab
     icon_pack: custom
     name: Matlab
@@ -46,6 +41,26 @@ feature:
     icon: julia
     icon_pack: custom
     name: Julia
+    
+  - description:
+    icon: sk
+    icon_pack: custom
+    name: Scikit-learn
+    
+  - description:
+    icon: keras
+    icon_pack: custom
+    name: Keras
+  
+  - description:
+    icon: tf
+    icon_pack: custom
+    name: TensorFlow
+        
+  - description:
+    icon: pyto
+    icon_pack: custom
+    name: PyTorch
             
   - description:
     icon: ras
