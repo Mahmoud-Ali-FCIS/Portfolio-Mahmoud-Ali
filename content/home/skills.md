@@ -16,10 +16,6 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description:
-    icon: r-project
-    icon_pack: fab
-    name: R
     
   - description:
     icon: python
@@ -27,10 +23,60 @@ feature:
     name: Python
     
   - description:
+    icon: c-plus
+    icon_pack: custom
+    name: C++
+                
+  - description:
+    icon: c-sharp
+    icon_pack: custom
+    name: C#
+    
+  - description:
+    icon: r-project
+    icon_pack: fab
+    name: R
+    
+  - description:
+    icon: matlab
+    icon_pack: custom
+    name: Matlab
+       
+  - description:
+    icon: julia
+    icon_pack: custom
+    name: Julia
+            
+  - description:
+    icon: ras
+    icon_pack: custom
+    name: Raspberry-pi
+        
+  - description:
+    icon: ard
+    icon_pack: custom
+    name: Arduino
+           
+  - description:
+    icon: st
+    icon_pack: custom
+    name: Streamlit
+        
+  - description:
     icon: git
     icon_pack: fab
-    name: GIT
+    name: Git
     
+  - description:
+    icon: docker
+    icon_pack: fab
+    name: Docker
+    
+  - description:
+    icon: hero
+    icon_pack: custom
+    name: Huroko
+        
   - description:
     icon: github
     icon_pack: fab
@@ -47,11 +93,6 @@ feature:
     name: Bitbucket
             
   - description:
-    icon: raspberry-pi
-    icon_pack: fab
-    name: Raspberry-pi
-            
-  - description:
     icon: linux
     icon_pack: fab
     name: Linux
@@ -65,31 +106,6 @@ feature:
     icon: apple
     icon_pack: fab
     name: Mac
-
-  - description:
-    icon: docker
-    icon_pack: fab
-    name: Docker
-    
-  - description:
-    icon: c-plus
-    icon_pack: custom
-    name: C++
-                
-  - description:
-    icon: c-sharp
-    icon_pack: custom
-    name: C#
-                
-  - description:
-    icon: matlab
-    icon_pack: custom
-    name: Matlab
-       
-  - description:
-    icon: julia
-    icon_pack: custom
-    name: Julia
     
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
