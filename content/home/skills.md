@@ -60,12 +60,22 @@ feature:
     icon: windows
     icon_pack: fab
     name: Windows
-            
+                
+  - description:
+    icon: apple
+    icon_pack: fab
+    name: Mac
+
   - description:
     icon: docker
     icon_pack: fab
     name: Docker
-                
+    
+  - icon: "julia"
+    icon_pack: "custom"
+    name: "Julia"
+    description: ""
+
   - description:
     icon: c-plus
     icon_pack: custom
