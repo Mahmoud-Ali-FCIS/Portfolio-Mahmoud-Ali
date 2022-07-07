@@ -16,10 +16,10 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/mahmoud-ali-5b1938b8/
   - icon: let
-    icon_pack: fab
+    icon_pack: far
     link: https://leetcode.com/mahmoudali2929/
   - icon: hkr
-    icon_pack: fab
+    icon_pack: fas
     link: https://www.hackerrank.com/MahmoudAhmedAli
 organizations:
   - name: École Centrale de Lyon
