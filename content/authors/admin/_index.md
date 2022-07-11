@@ -6,8 +6,8 @@ bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer vision
+  - Robotics
 social:
   - icon: github
     icon_pack: fab
