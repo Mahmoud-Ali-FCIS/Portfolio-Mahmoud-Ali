@@ -1,6 +1,6 @@
 ---
 widget: slider
-weight: 70
+weight: 140
 active: true
 headless: true
 
