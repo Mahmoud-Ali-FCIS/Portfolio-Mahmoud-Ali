@@ -15,21 +15,21 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group
-      content: Take a look at what we're working on...
+    - title: 👋 A Symposium on Artificial Intelligence
+      content: The first event of its kind to be held in Italy, Synapse features talks and poster sessions with globally voices in the field of AI.
       align: center
       background:
         position: right
         color: '#666'
         brightness: 0.7
-    - title: Lunch & Learn ☕️
+    - title: Technische Universität Darmstadt
       content: 'Share your knowledge with the group and explore exciting new topics together!'
       align: left
       background:
         position: center
         color: '#555'
         brightness: 0.7
-    - title: World-Class Semiconductor Lab
+    - title: Arqus
       content: 'Just opened last month!'
       align: right
       background:
@@ -41,4 +41,28 @@ content:
         icon_pack: fas
         text: Join Us
         url: ../contact/
+        
+    - title: Microsoft
+      content: 'Share your knowledge with the group and explore exciting new topics together!'
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.7
+                
+    - title: AWS
+      content: 'Share your knowledge with the group and explore exciting new topics together!'
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.7
+                
+    - title: IndabaX
+      content: 'Share your knowledge with the group and explore exciting new topics together!'
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.7
 ---
