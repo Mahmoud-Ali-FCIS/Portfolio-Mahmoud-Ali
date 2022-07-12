@@ -66,4 +66,5 @@ content:
         position: center
         color: '#555'
         brightness: 0.7
+        media: indaba.png
 ---
