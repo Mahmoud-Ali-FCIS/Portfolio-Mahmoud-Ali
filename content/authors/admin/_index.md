@@ -24,9 +24,7 @@ social:
   - icon: kaggle
     icon_pack: fab
     link: https://www.kaggle.com/mahmoudahmedali
-  - icon: badge-check
-    icon_pack: fab
-    link: https://www.credly.com/users/mahmoud-ahmed-mohamed-ali
+    
 organizations:
   - name: École Centrale de Lyon
     url: https://www.ec-lyon.fr/
