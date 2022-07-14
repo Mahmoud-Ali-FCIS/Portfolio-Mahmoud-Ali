@@ -16,7 +16,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/mahmoud-ali-5b1938b8/
   - icon: leetcode
-    icon_pack: ai
+    icon_pack: can
     link: https://leetcode.com/mahmoudali2929/
   - icon: hackerrank
     icon_pack: fab
