@@ -15,15 +15,21 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/mahmoud-ali-5b1938b8/
-  - icon: leetcode
-    icon_pack: cib
-    link: https://leetcode.com/mahmoudali2929/
   - icon: hackerrank
     icon_pack: fab
     link: https://www.hackerrank.com/MahmoudAhmedAli
   - icon: kaggle
     icon_pack: fab
     link: https://www.kaggle.com/mahmoudahmedali
+  - icon: leetcode
+    icon_pack: cib
+    link: https://leetcode.com/mahmoudali2929/
+feature:
+  - description:
+    icon: let
+    icon_pack: custom
+    name: Python
+    
 organizations:
   - name: École Centrale de Lyon
     url: https://www.ec-lyon.fr/
