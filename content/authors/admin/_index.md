@@ -15,15 +15,18 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/Mahmoud-Ali-FCIS
-  - icon: hackerrank
-    icon_pack: fab
-    link: https://www.hackerrank.com/MahmoudAhmedAli
   - icon: code
     icon_pack: fab
     link: https://leetcode.com/mahmoudali2929/
+  - icon: hackerrank
+    icon_pack: fab
+    link: https://www.hackerrank.com/MahmoudAhmedAli
   - icon: kaggle
     icon_pack: fab
     link: https://www.kaggle.com/mahmoudahmedali
+  - icon: badge-check
+    icon_pack: fab
+    link: https://www.credly.com/users/mahmoud-ahmed-mohamed-ali
     
 organizations:
   - name: École Centrale de Lyon
