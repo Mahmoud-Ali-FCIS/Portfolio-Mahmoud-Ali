@@ -16,10 +16,10 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/mahmoud-ali-5b1938b8/
   - icon: let
-    icon_pack: ai
+    icon_pack: custom
     link: https://leetcode.com/mahmoudali2929/
   - icon: hkr
-    icon_pack: ai
+    icon_pack: custom
     link: https://www.hackerrank.com/MahmoudAhmedAli
 organizations:
   - name: École Centrale de Lyon
@@ -39,9 +39,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Mahmoud Ali is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My name is Mahmoud Ali, I'm a Computer Vision researcher at École Centrale de Lyon [LIRIS lab] France, My research is about: perception and scene understanding.This my survey for SOTA of 6D pose estimation: https://mahmoud-ali-fcis.github.io/6D-Object-Pose-Estimation/ .I finished my Master degree M2 2021 at Grenoble INP - Ensimag in [MOSIG - GVR program] and i joined to INRIA - Grenoble [MORPHEO team] as Computer vision researcher until mid of August under supervision by: Prof. Sergi Pujades. I finished M1 from [VIBOT program] at Université de Bourgogne. I ranked "7" / 30 students. with grades 14.7 /20.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Mahmoud_Ali_CV2022.pdf" "newtab" >}}resumé{{< /staticref >}}.
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Recommendation Letters.pdf" "newtab" >}}recommendation letters{{< /staticref >}}.
