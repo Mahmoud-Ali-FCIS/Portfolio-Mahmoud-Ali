@@ -16,7 +16,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/mahmoud-ali-5b1938b8/
   - icon: leetcode
-    icon_pack: can
+    icon_pack: cib
     link: https://leetcode.com/mahmoudali2929/
   - icon: hackerrank
     icon_pack: fab
@@ -24,11 +24,6 @@ social:
   - icon: kaggle
     icon_pack: fab
     link: https://www.kaggle.com/mahmoudahmedali
-  - description:
-    icon: let
-    icon_pack: custom
-    name: ""
-    link: https://leetcode.com/mahmoudali2929/
 organizations:
   - name: École Centrale de Lyon
     url: https://www.ec-lyon.fr/
