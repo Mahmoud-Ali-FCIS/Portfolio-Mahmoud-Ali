@@ -18,8 +18,8 @@ social:
   - icon: let
     icon_pack: fas
     link: https://leetcode.com/mahmoudali2929/
-  - icon: hkr
-    icon_pack: custom
+  - icon: fa-hackerrank
+    icon_pack: fas
     link: https://www.hackerrank.com/MahmoudAhmedAli
 organizations:
   - name: École Centrale de Lyon
