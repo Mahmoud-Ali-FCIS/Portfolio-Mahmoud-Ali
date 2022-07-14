@@ -9,27 +9,24 @@ interests:
   - Computer vision
   - Robotics
 social:
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/Mahmoud-Ali-FCIS
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/mahmoud-ali-5b1938b8/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/Mahmoud-Ali-FCIS
   - icon: hackerrank
     icon_pack: fab
     link: https://www.hackerrank.com/MahmoudAhmedAli
+  - icon: code
+    icon_pack: fab
+    link: https://leetcode.com/mahmoudali2929/
   - icon: kaggle
     icon_pack: fab
     link: https://www.kaggle.com/mahmoudahmedali
-  - icon: leetcode
-    icon_pack: cib
-    link: https://leetcode.com/mahmoudali2929/
-feature:
-  - description:
-    icon: let
-    icon_pack: custom
-    name: Python
-    
+  - icon: badge-check
+    icon_pack: fab
+    link: https://www.credly.com/users/mahmoud-ahmed-mohamed-ali
 organizations:
   - name: École Centrale de Lyon
     url: https://www.ec-lyon.fr/
