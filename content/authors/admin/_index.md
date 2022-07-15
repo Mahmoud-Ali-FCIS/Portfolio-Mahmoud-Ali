@@ -24,7 +24,7 @@ social:
   - icon: kaggle
     icon_pack: fab
     link: https://www.kaggle.com/mahmoudahmedali
-  - icon: badge-check
+  - icon: certificate
     icon_pack: fas
     link: https://www.credly.com/users/mahmoud-ahmed-mohamed-ali
     
