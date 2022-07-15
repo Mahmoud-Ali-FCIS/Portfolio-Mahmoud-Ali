@@ -16,7 +16,7 @@ social:
     icon_pack: fab
     link: https://github.com/Mahmoud-Ali-FCIS
   - icon: laptop-code
-    icon_pack: fab
+    icon_pack: fas
     link: https://leetcode.com/mahmoudali2929/
   - icon: hackerrank
     icon_pack: fab
@@ -25,7 +25,7 @@ social:
     icon_pack: fab
     link: https://www.kaggle.com/mahmoudahmedali
   - icon: certificate
-    icon_pack: fab
+    icon_pack: fas
     link: https://www.credly.com/users/mahmoud-ahmed-mohamed-ali
     
 organizations:
