@@ -25,11 +25,11 @@ date_format: Jan 2006
 item:
   - certificate_url: https://www.coursera.org
     date_end: ''
-    date_start: '2020-08-25'
+    date_start: '2021-01-25'
     description: ''
     organization: Coursera
-    organization_url: https://www.coursera.org/account/accomplishments/certificate/GRJCM3VEB76Y
-    title: Deep Learning with PyTorch : Siamese Network
+    organization_url: https://www.coursera.org
+    title: Neural Networks and Deep Learning
     url: ''
   - certificate_url: https://www.edx.org
     date_end: ''
