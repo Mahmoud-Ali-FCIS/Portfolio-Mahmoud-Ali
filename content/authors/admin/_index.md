@@ -2,8 +2,8 @@
 title: Mahmoud Ali
 role: Computer vision researcher
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Computer vision, Deep learning and
+  Roborics.
 interests:
   - Artificial Intelligence
   - Computer vision
@@ -39,7 +39,7 @@ education:
     - course: MSc 1 in Computer Vision and Robotics
       institution: Université de Bourgogne
       year: 2020
-    - course: Postgraduate(Pre-master)in Computer Science
+    - course: Pre-master in Computer Science
       institution: Ain Shams University
       year: 2018
     - course: BSc in Computer Science
