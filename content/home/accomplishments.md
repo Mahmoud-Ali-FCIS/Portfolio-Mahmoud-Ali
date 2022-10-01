@@ -23,12 +23,12 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org/account/accomplishments/certificate/GRJCM3VEB76Y
+  - certificate_url: https://www.coursera.org
     date_end: ''
     date_start: '2020-08-25'
     description: ''
     organization: Coursera
-    organization_url: https://www.coursera.org
+    organization_url: https://www.coursera.org/account/accomplishments/certificate/GRJCM3VEB76Y
     title: Deep Learning with PyTorch : Siamese Network
     url: ''
   - certificate_url: https://www.edx.org
