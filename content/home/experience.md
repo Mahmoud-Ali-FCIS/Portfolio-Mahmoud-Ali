@@ -45,7 +45,11 @@ experience:
     location: Grenoble, France
     date_start: '2021-02-15'
     date_end: '2021-08-15'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+        Responsibilities include:
+        
+        * Study Automated General Movements Assessment by Clustering Motion Words from Infants Motion Sequences.
+        * Develop system to detect Cerebral Palsy problem earlier in the infant in age 3 -5 months.
     
   - title: Master Student (Computer vision and Robotics) [MOSIG]
     company: Université Grenoble Alpes 
