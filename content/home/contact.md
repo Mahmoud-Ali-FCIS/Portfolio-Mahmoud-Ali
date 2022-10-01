@@ -15,18 +15,9 @@ content:
   # Automatically link email and phone or display as text?
   autolink: true
 
-  # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
-
   # Contact details (edit or remove options as required)
   email: mahmoudali2929@gmail.com
-  phone: 033621393167
+  phone: +33621393167
   address:
     street: 6 Rue de Vassieux en Vercors
     city: Grenoble
