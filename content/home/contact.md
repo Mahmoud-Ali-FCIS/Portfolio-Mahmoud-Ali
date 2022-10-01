@@ -25,8 +25,8 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: mahmoud.ali@ec-lyon.fr
-  phone: +33621393167
+  email: mahmoudali2929@gmail.com
+  phone: 033621393167
   address:
     street: 6 Rue de Vassieux en Vercors
     city: Grenoble
