@@ -58,7 +58,12 @@ experience:
     location: Grenoble, France
     date_start: '2020-09-15'
     date_end: '2021-02-05'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+        Courses include:
+        
+        * Computer vision
+        * Autonomous robotics
+        * Computer graphics
     
   - title: Master Student (Computer vision and Robotics) [VIBOT] 
     company: Université de Bourgogne 
@@ -67,7 +72,12 @@ experience:
     location: Le Creusot, France
     date_start: '2019-09-15'
     date_end: '2020-07-15'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+        Courses include:
+        
+        * Image processing
+        * Medical image analysis
+        * Visual perception
     
   - title: Computer vision Engineer 
     company: DevisionX 
@@ -76,25 +86,13 @@ experience:
     location: Cairo, Egypt
     date_start: '2018-11-01'
     date_end: '2019-06-30'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+        Responsibilities include:
         
-  - title: Computer Vision Researcher 
-    company: Ain Shams University 
-    company_url: 'https://www.asu.edu.eg/'
-    company_logo: ain
-    location: Cairo, Egypt
-    date_start: '2017-09-01'
-    date_end: '2018-06-15'
-    description: Taught electronic engineering and researched semiconductor physics.
-        
-  - title: Computer Vision Researcher 
-    company: Ain Shams University 
-    company_url: 'https://www.asu.edu.eg/'
-    company_logo: ain
-    location: Cairo, Egypt
-    date_start: '2012-09-01'
-    date_end: '2016-06-15'
-    description: Taught electronic engineering and researched semiconductor physics.
+        * Identify the Egyptian national id and driver license from images. 
+        * Using Arabic OCR to recognize the text in it.
+        * Useing face recognition to recognize the person holding the ID.
+     
     
 design:
   columns: '2'
