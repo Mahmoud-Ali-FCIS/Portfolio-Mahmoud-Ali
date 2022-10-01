@@ -29,7 +29,7 @@ experience:
     company_logo: her
     location: Saint-Étienne, France
     date_start: '2021-10-01'
-    date_end: '2022-01-31'
+    date_end: '2021-12-31'
     description: |2-
         Responsibilities include:
         
@@ -37,7 +37,7 @@ experience:
         * Generate dataset of synthetic A scanning electron microscope (SEM) images.
         * Comparison of the quality of the simulation methods (Monte-Carlo method and Deep Learning based methods).
         * Denoising the scanning electron microscopy images using different filters (NLM, Bilateral, Total variation (TV), BM3D).
-        
+
   - title: Computer Vision Researcher 
     company: INRIA 
     company_url: 'https://www.inria.fr/fr/centre-inria-grenoble-rhone-alpes'
@@ -45,11 +45,7 @@ experience:
     location: Grenoble, France
     date_start: '2021-02-15'
     date_end: '2021-08-15'
-    description: |2-
-        Responsibilities include:
-        
-        * Study Automated General Movements Assessment by Clustering Motion Words from Infants Motion Sequences.
-        * Develop system to detect Cerebral Palsy problem earlier in the infant in age 3 -5 months.
+    description: Taught electronic engineering and researched semiconductor physics.
     
   - title: Master Student (Computer vision and Robotics) [MOSIG]
     company: Université Grenoble Alpes 
@@ -58,27 +54,17 @@ experience:
     location: Grenoble, France
     date_start: '2020-09-15'
     date_end: '2021-02-05'
-    description: |2-
-        Courses include: 
-        
-        * Computer vision
-        * Autonomous robotics
-        * Computer graphics
- 
- - title: Master Student (Computer vision and Robotics) [VIBOT] 
+    description: Taught electronic engineering and researched semiconductor physics.
+    
+  - title: Master Student (Computer vision and Robotics) [VIBOT] 
     company: Université de Bourgogne 
     company_url: 'https://www.u-bourgogne.fr/'
     company_logo: bor
     location: Le Creusot, France
     date_start: '2019-09-15'
     date_end: '2020-07-15'
-    description: |2-
-        Courses include:
-        
-        * Image processing
-        * Medical image analysis
-        * Visual perception
-  
+    description: Taught electronic engineering and researched semiconductor physics.
+    
   - title: Computer vision Engineer 
     company: DevisionX 
     company_url: 'https://devisionx.com/'
@@ -86,12 +72,26 @@ experience:
     location: Cairo, Egypt
     date_start: '2018-11-01'
     date_end: '2019-06-30'
-    description: |2-
+    description: Taught electronic engineering and researched semiconductor physics.
+        
+  - title: Computer Vision Researcher 
+    company: Ain Shams University 
+    company_url: 'https://www.asu.edu.eg/'
+    company_logo: ain
+    location: Cairo, Egypt
+    date_start: '2017-09-01'
+    date_end: '2018-06-15'
+    description: Taught electronic engineering and researched semiconductor physics.
+        
+  - title: Computer Vision Researcher 
+    company: Ain Shams University 
+    company_url: 'https://www.asu.edu.eg/'
+    company_logo: ain
+    location: Cairo, Egypt
+    date_start: '2012-09-01'
+    date_end: '2016-06-15'
+    description: Taught electronic engineering and researched semiconductor physics.
     
-        * Identify the Egyptian national id and driver license from images. 
-        * Using Arabic OCR to recognize the text in it.
-        * Useing face recognition to recognize the person holding the ID.
-
 design:
   columns: '2'
 ---
