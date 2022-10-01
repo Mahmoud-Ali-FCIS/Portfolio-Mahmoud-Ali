@@ -61,8 +61,6 @@ experience:
         * Computer vision
         * Autonomous robotics
         * Computer graphics
-        * Human-centered interaction
-        * Machine Learning for Computer Vision and Audio Processing
  
  - title: Master Student (Computer vision and Robotics) [VIBOT] 
     company: Université de Bourgogne 
@@ -76,7 +74,6 @@ experience:
         * Image processing
         * Medical image analysis
         * Visual perception
-        * Scene segmentation
   
   - title: Computer vision Engineer 
     company: DevisionX 
@@ -89,7 +86,6 @@ experience:
         * Identify the Egyptian national id and driver license from images. 
         * Using Arabic OCR to recognize the text in it.
         * Useing face recognition to recognize the person holding the ID.
-        * Tools: Python, Deep learning, Keras, skikit-learn.
 
 design:
   columns: '2'
