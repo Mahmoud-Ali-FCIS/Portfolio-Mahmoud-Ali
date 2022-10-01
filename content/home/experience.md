@@ -32,6 +32,7 @@ experience:
     date_end: '2022-01-31'
     description: |2-
         Responsibilities include:
+        
         * FA4.0 (Failure Analysis 4.0) develop a complete pipeline for failure diagnostic of electronic devices.
         * Generate dataset of synthetic A scanning electron microscope (SEM) images.
         * Comparison of the quality of the simulation methods (Monte-Carlo method and Deep Learning based methods).
@@ -46,6 +47,7 @@ experience:
     date_end: '2021-08-15'
     description: |2-
         Responsibilities include:
+        
         * Study Automated General Movements Assessment by Clustering Motion Words from Infants Motion Sequences.
         * Develop system to detect Cerebral Palsy problem earlier in the infant in age 3 -5 months.
     
@@ -57,7 +59,8 @@ experience:
     date_start: '2020-09-15'
     date_end: '2021-02-05'
     description: |2-
-        Courses include:        
+        Courses include: 
+        
         * Computer vision
         * Autonomous robotics
         * Computer graphics
@@ -71,6 +74,7 @@ experience:
     date_end: '2020-07-15'
     description: |2-
         Courses include:
+        
         * Image processing
         * Medical image analysis
         * Visual perception
@@ -83,6 +87,7 @@ experience:
     date_start: '2018-11-01'
     date_end: '2019-06-30'
     description: |2-
+    
         * Identify the Egyptian national id and driver license from images. 
         * Using Arabic OCR to recognize the text in it.
         * Useing face recognition to recognize the person holding the ID.
