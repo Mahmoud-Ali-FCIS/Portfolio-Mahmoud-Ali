@@ -29,7 +29,7 @@ item:
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Deep Learning with PyTorch_Siamese Network
+    title: Deep Learning with PyTorch Siamese Network
     url: ''
   - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/2ZHREA3VPXL3
     date_end: ''
@@ -37,7 +37,7 @@ item:
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Generative Adversarial Networks _GANs_ Specialization
+    title: Generative Adversarial Networks GANs Specialization
     url: ''
   - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/PHS9S9CLHNU4
     date_end: ''
@@ -61,7 +61,7 @@ item:
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Image and Video Processing_From Mars to Hollywood with a Stop at the Hospital
+    title: Image and Video Processing From Mars to Hollywood with a Stop at the Hospital
     url: ''
 
 design:
