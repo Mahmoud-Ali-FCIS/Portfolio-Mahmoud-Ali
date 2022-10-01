@@ -33,7 +33,7 @@ experience:
     description: |2-
         Responsibilities include:
         * FA4.0 (Failure Analysis 4.0) develop a complete pipeline for failure diagnostic of electronic devices.
-        * Generate dataset of synthetic A scanning electron microscope (SEM) images, with ground truth having a realistic geometry, associated with the experimental contexts of the project.
+        * Generate dataset of synthetic A scanning electron microscope (SEM) images.
         * Comparison of the quality of the simulation methods (Monte-Carlo method and Deep Learning based methods).
         * Denoising the scanning electron microscopy images using different filters (NLM, Bilateral, Total variation (TV), BM3D).
         
@@ -57,7 +57,7 @@ experience:
     date_start: '2020-09-15'
     date_end: '2021-02-05'
     description: |2-
-        Responsibilities include:        
+        Courses include:        
         * Computer vision
         * Autonomous robotics
         * Computer graphics
@@ -72,7 +72,7 @@ experience:
     date_start: '2019-09-15'
     date_end: '2020-07-15'
     description: |2-
-        Responsibilities include:
+        Courses include:
         * Image processing
         * Medical image analysis
         * Visual perception
@@ -86,7 +86,6 @@ experience:
     date_start: '2018-11-01'
     date_end: '2019-06-30'
     description: |2-
-        Responsibilities include:
         * Identify the Egyptian national id and driver license from images. 
         * Using Arabic OCR to recognize the text in it.
         * Useing face recognition to recognize the person holding the ID.
