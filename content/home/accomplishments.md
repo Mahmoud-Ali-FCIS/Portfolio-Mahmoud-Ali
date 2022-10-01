@@ -37,7 +37,7 @@ item:
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Generative Adversarial Networks (GANs) Specialization
+    title: Generative Adversarial Networks _GANs_ Specialization
     url: ''
   - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/PHS9S9CLHNU4
     date_end: ''
@@ -53,7 +53,7 @@ item:
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Visual Perception for Self-Driving Cars
+    title: Visual Perception for Self Driving Cars
     url: ''
   - certificate_url: https://www.coursera.org/account/accomplishments/certificate/EHNVCK8CSYNZ
     date_end: ''
