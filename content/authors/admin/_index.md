@@ -29,16 +29,13 @@ social:
     link: https://www.credly.com/users/mahmoud-ahmed-mohamed-ali
     
 organizations:
-    - name: Université Grenoble Alpes
+  - name: Université Grenoble Alpes
     url: https://mosig.imag.fr/
 education:
   courses:
     - course: MSc in Computer Vision and Robotics
       institution: Université Grenoble Alpes
       year: 2021
-    - course: Postgraduate(Pre-master) in Computer Science
-      institution: Ain Shams University
-      year: 2018
     - course: BSc in Computer Science
       institution: Ain Shams University
       year: 2016
@@ -47,10 +44,8 @@ superuser: true
 highlight_name: true
 ---
 My name is Mahmoud Ali, I'm a Computer Vision researcher
-interested about perception and scene understanding. This my study for SOTA of 6D pose estimation: https://mahmoud-ali-fcis.github.io/6D-Object-Pose-Estimation/. I finished my Master degree M2 2021 at Grenoble INP - Ensimag in [MOSIG - GVR program] and i joined INRIA - Grenoble [MORPHEO team] as Computer vision researcher under supervision of: Prof. Sergi Pujades. Moreover I finished M1 from [VIBOT program] at Université de Bourgogne under supervision of: Prof. David Fofi. I ranked "7" / 30 students. {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Mahmoud_Ali_CV2022.pdf" "newtab" >}}resumé{{< /staticref >}}.
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Recommendation Letters.pdf" "newtab" >}}recommendation letters{{< /staticref >}}.
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/M2 - Université Grenoble Alpes_Transcript.pdf" "newtab" >}}MSc2 Transcript{{< /staticref >}}.
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/M1-Université de Bourgogne_Transcript.pdf" "newtab" >}}MSc1 Transcript{{< /staticref >}}.
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Postgraduate_Transcript.pdf" "newtab" >}}Postgraduate Transcript{{< /staticref >}}.
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Bachelor_Transcript.pdf" "newtab" >}}BSc Transcript{{< /staticref >}}.
+interested about perception and scene understanding. This my study for SOTA of 6D pose estimation: https://mahmoud-ali-fcis.github.io/6D-Object-Pose-Estimation/. I finished my Master degree M2 2021 at Grenoble INP - Ensimag in [MOSIG - GVR program] and i joined INRIA - Grenoble [MORPHEO team] as Computer vision researcher under supervision of: Prof. Sergi Pujades. Moreover I finished M1 from [VIBOT program] at Université de Bourgogne under supervision of: Prof. David Fofi. I ranked "7" / 30 students. 
 
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Mahmoud_Ali_CV2022.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Recommendation Letters.pdf" "newtab" >}}recommendation letters{{< /staticref >}}.
+---
