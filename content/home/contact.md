@@ -19,10 +19,10 @@ content:
   email: mahmoudali2929@gmail.com
   phone: +33621393167
   address:
-    street: 6 Rue de Vassieux en Vercors
+    street: 38 Rue des eaux claires
     city: Grenoble
     region: Isère
-    postcode: '38000'
+    postcode: '38100'
     country: France
     country_code: FR
 
