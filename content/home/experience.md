@@ -37,6 +37,7 @@ experience:
         * Generate dataset of synthetic A scanning electron microscope (SEM) images.
         * Comparison of the quality of the simulation methods (Monte-Carlo method and Deep Learning based methods).
         * Denoising the scanning electron microscopy images using different filters (NLM, Bilateral, Total variation (TV), BM3D).
+        * Project video: https://drive.google.com/file/d/18PFYFkVipsYe8PayDIvoO_p-rS4A-o6m/viewAnalysing
 
   - title: Computer Vision Researcher 
     company: INRIA 
@@ -50,6 +51,7 @@ experience:
         
         * Study Automated General Movements Assessment by Clustering Motion Words from Infants Motion Sequences.
         * Develop system to detect Cerebral Palsy problem earlier in the infant in age 3 -5 months.
+        * Presentation: https://docs.google.com/presentation/d/19IoEPLEGcwnHSwsggvjPOdbwHHx-o-xr1gSOb-wvrA0/edit?usp=sharing
     
   - title: Master Student (Computer vision and Robotics) [MOSIG]
     company: Université Grenoble Alpes 
