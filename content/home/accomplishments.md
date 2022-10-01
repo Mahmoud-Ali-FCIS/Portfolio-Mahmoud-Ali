@@ -33,31 +33,31 @@ item:
     url: ''
   - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/2ZHREA3VPXL3
     date_end: ''
-    date_start: '2020-12-25'
-    description: ''
+    date_start: '2020-12-01'
+    description: Formulated informed blockchain models, hypotheses, and use cases.
     organization: Coursera
     organization_url: https://www.coursera.org
     title: Generative Adversarial Networks (GANs) Specialization
     url: ''
   - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/PHS9S9CLHNU4
-    date_end: ''
-    date_start: '2018-05-25'
+    date_end: '2018-08-21'
+    date_start: ''
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
     title: Deep Learning Specialization
     url: ''
   - certificate_url: https://www.coursera.org/account/accomplishments/certificate/99946R2SZ5L8
-    date_end: ''
-    date_start: '2020-03-25'
+    date_end: '2020-03-21'
+    date_start: ''
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
     title: Visual Perception for Self-Driving Cars
     url: ''
-  - certificate_url:https://www.coursera.org/account/accomplishments/certificate/EHNVCK8CSYNZ
-    date_end: ''
-    date_start: '2020-04-25'
+  - certificate_url: https://www.coursera.org/account/accomplishments/certificate/EHNVCK8CSYNZ
+    date_end: '2020-04-21'
+    date_start: ''
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
