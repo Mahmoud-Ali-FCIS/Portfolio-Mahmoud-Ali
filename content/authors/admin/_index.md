@@ -51,8 +51,8 @@ interested about perception and scene understanding. This my study for SOTA of 6
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Mahmoud_Ali_CV2022.pdf" "newtab" >}}resumé{{< /staticref >}}.
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Recommendation Letters.pdf" "newtab" >}}recommendation letters{{< /staticref >}}.
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Mahmoud_Ali_CV2022.pdf" "newtab" >}}MSc2 Transcript{{< /staticref >}}.
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Mahmoud_Ali_CV2022.pdf" "newtab" >}}MSc1 Transcript{{< /staticref >}}.
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Mahmoud_Ali_CV2022.pdf" "newtab" >}}Postgraduate Transcript{{< /staticref >}}.
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Mahmoud_Ali_CV2022.pdf" "newtab" >}}BSc Transcript{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/M2 - Université Grenoble Alpes_Transcript.pdf" "newtab" >}}MSc2 Transcript{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/M1-Université de Bourgogne_Transcript.pdf" "newtab" >}}MSc1 Transcript{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Postgraduate_Transcript.pdf" "newtab" >}}Postgraduate Transcript{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Bachelor_Transcript.pdf" "newtab" >}}BSc Transcript{{< /staticref >}}.
 
