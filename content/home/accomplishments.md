@@ -31,37 +31,21 @@ item:
     organization_url: https://www.coursera.org
     title: Deep Learning with PyTorch : Siamese Network
     url: ''
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://www.edx.org
     date_end: ''
-    date_start: '2020-12-01'
+    date_start: '2021-01-01'
+    description: Formulated informed blockchain models, hypotheses, and use cases.
+    organization: edX
+    organization_url: https://www.edx.org
+    title: Blockchain Fundamentals
+    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  - certificate_url: https://www.datacamp.com
+    date_end: '2020-12-21'
+    date_start: '2020-07-01'
     description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Generative Adversarial Networks (GANs) Specialization
-    url: ''
-  - certificate_url: https://www.coursera.org
-    date_end: ''
-    date_start: '2018-08-21'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Deep Learning Specialization
-    url: ''
-  - certificate_url: https://www.coursera.org
-    date_end: ''
-    date_start: '2020-03-21'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Visual Perception for Self-Driving Cars
-    url: ''
-  - certificate_url: https://www.coursera.org
-    date_end: ''
-    date_start: '2020-04-21'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital
+    organization: DataCamp
+    organization_url: https://www.datacamp.com
+    title: 'Object-Oriented Programming in R'
     url: ''
 
 design:
