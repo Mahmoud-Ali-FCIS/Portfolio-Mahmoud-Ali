@@ -61,7 +61,7 @@ item:
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital
+    title: Image and Video Processing_From Mars to Hollywood with a Stop at the Hospital
     url: ''
 
 design:
