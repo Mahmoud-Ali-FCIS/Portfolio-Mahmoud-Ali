@@ -29,15 +29,10 @@ social:
     link: https://www.credly.com/users/mahmoud-ahmed-mohamed-ali
     
 organizations:
-<!--   - name: École Centrale de Lyon
-    url: https://www.ec-lyon.fr/ -->
     - name: Université Grenoble Alpes
     url: https://mosig.imag.fr/
 education:
   courses:
-<!--     - course: PhD in Computer Vision
-      institution: École Centrale de Lyon
-      year: 2022 -->
     - course: MSc in Computer Vision and Robotics
       institution: Université Grenoble Alpes
       year: 2019-2021
