@@ -32,9 +32,9 @@ item:
     title: Deep Learning with PyTorch : Siamese Network
     url: ''
   - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/2ZHREA3VPXL3
-    date_end: ''
-    date_start: '2020-12-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
+    date_end: '2020-12-01'
+    date_start: ''
+    description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
     title: Generative Adversarial Networks (GANs) Specialization
@@ -46,6 +46,22 @@ item:
     organization: Coursera
     organization_url: https://www.coursera.org
     title: Deep Learning Specialization
+    url: ''
+  - certificate_url: https://www.coursera.org/account/accomplishments/certificate/99946R2SZ5L8
+    date_end: '2020-03-21'
+    date_start: ''
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Visual Perception for Self-Driving Cars
+    url: ''
+  - certificate_url: https://www.coursera.org/account/accomplishments/certificate/EHNVCK8CSYNZ
+    date_end: '2020-04-21'
+    date_start: ''
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital
     url: ''
 
 design:
