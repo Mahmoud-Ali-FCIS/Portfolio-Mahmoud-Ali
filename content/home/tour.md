@@ -1,8 +1,8 @@
 ---
 widget: slider
 weight: 130
-active: true
-headless: true
+active: false
+headless: false
 
 design:
   # Slide height is automatic unless you force a specific height (e.g. '400px')
