@@ -52,10 +52,10 @@ feature:
     icon_pack: custom
     name: Keras
   
-  - description:
+<!--   - description:
     icon: tf
     icon_pack: custom
-    name: TensorFlow
+    name: TensorFlow -->
         
   - description:
     icon: pyto
@@ -67,10 +67,10 @@ feature:
     icon_pack: custom
     name: Raspberry-pi
         
-  - description:
+<!--   - description:
     icon: ard
     icon_pack: custom
-    name: Arduino
+    name: Arduino -->
            
   - description:
     icon: st
@@ -97,7 +97,7 @@ feature:
     icon_pack: fab
     name: Github
     
-  - description:
+<!--   - description:
     icon: gitlab
     icon_pack: fab
     name: Gitlab
@@ -105,14 +105,14 @@ feature:
   - description:
     icon: bitbucket
     icon_pack: fab
-    name: Bitbucket
+    name: Bitbucket -->
             
   - description:
     icon: linux
     icon_pack: fab
     name: Linux
             
-  - description:
+<!--   - description:
     icon: windows
     icon_pack: fab
     name: Windows
@@ -120,7 +120,7 @@ feature:
   - description:
     icon: apple
     icon_pack: fab
-    name: Mac
+    name: Mac -->
     
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
