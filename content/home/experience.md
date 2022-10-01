@@ -23,7 +23,6 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
-
   - title: Computer Vision Researcher 
     company: Hubert Curien Lab 
     company_url: 'https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html'
