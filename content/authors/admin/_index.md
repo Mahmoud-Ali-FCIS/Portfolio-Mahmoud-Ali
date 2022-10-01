@@ -35,13 +35,13 @@ education:
   courses:
     - course: MSc in Computer Vision and Robotics
       institution: Université Grenoble Alpes
-      year: 2019-2021
+      year: 2021
     - course: Postgraduate(Pre-master) in Computer Science
       institution: Ain Shams University
-      year: 2017-2018
+      year: 2018
     - course: BSc in Computer Science
       institution: Ain Shams University
-      year: 2012-2016
+      year: 2016
 email: ""
 superuser: true
 highlight_name: true
