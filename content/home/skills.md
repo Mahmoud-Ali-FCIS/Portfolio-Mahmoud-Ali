@@ -27,10 +27,10 @@ feature:
     icon_pack: custom
     name: C++
                 
-  - description:
+<!--   - description:
     icon: c-sharp
     icon_pack: custom
-    name: C#
+    name: C# -->
     
   - description:
     icon: matlab
@@ -62,10 +62,10 @@ feature:
     icon_pack: custom
     name: Raspberry-pi
            
-  - description:
+<!--   - description:
     icon: st
     icon_pack: custom
-    name: Streamlit
+    name: Streamlit -->
         
   - description:
     icon: git
@@ -82,10 +82,10 @@ feature:
     icon_pack: custom
     name: Huroko
         
-  - description:
+<!--   - description:
     icon: github
     icon_pack: fab
-    name: Github
+    name: Github -->
             
   - description:
     icon: linux
