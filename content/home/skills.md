@@ -26,11 +26,6 @@ feature:
     icon: c-plus
     icon_pack: custom
     name: C++
-                
-<!--   - description:
-    icon: c-sharp
-    icon_pack: custom
-    name: C# -->
     
   - description:
     icon: matlab
@@ -62,11 +57,6 @@ feature:
     icon_pack: custom
     name: Raspberry-pi
            
-<!--   - description:
-    icon: st
-    icon_pack: custom
-    name: Streamlit -->
-        
   - description:
     icon: git
     icon_pack: fab
@@ -81,12 +71,7 @@ feature:
     icon: hero
     icon_pack: custom
     name: Huroko
-        
-<!--   - description:
-    icon: github
-    icon_pack: fab
-    name: Github -->
-            
+
   - description:
     icon: linux
     icon_pack: fab
