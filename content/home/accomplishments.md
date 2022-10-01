@@ -29,7 +29,7 @@ item:
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Deep Learning with PyTorch : Siamese Network
+    title: Deep Learning with PyTorch_Siamese Network
     url: ''
   - certificate_url: https://www.edx.org
     date_end: ''
