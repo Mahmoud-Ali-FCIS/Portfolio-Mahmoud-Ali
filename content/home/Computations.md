@@ -32,7 +32,7 @@ experience:
     date_end: ''
     description: |2-
     
-        * Robonomics: developing an innovative solution in nursing homes with a system capable of performing a semantic similarity analysis on texts and           images.
+        * Robonomics: developing an innovative solution in nursing homes with a system capable of performing a semantic similarity analysis on texts and           images by beam robot.
         * Project video: https://drive.google.com/file/d/1eMhbisjcfbSGeNhJTtzxOqrneFsEYDWH/view?usp=sharing
     
   - title: atathon DATACARE #2 -IA Santé
