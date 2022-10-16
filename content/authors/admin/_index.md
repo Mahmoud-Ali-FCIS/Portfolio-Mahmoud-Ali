@@ -5,7 +5,8 @@ avatar_filename: avatar.jpg
 bio: My research interests include Computer vision, Deep learning and
   Roborics.
 interests:
-  - Artificial Intelligence
+  - Machine learning
+  - Deep Learning 
   - Computer vision
   - Robotics
 social:
