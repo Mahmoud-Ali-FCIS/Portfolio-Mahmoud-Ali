@@ -24,6 +24,21 @@ date_format: Jan 2006
 
 experience:
   - title: Computer Vision Researcher 
+    company: LIRIS 
+    company_url: 'https://liris.cnrs.fr/'
+    company_logo: liris
+    location: Lyon, France
+    date_start: '2022-01-02'
+    date_end: '2022-11-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Research in perception and scene analysis and understanding of robot manipulation.
+        * Study state of the art for 6D pose estimation problem: https://mahmoud-ali-fcis.github.io/6D-Object-Pose-Estimation/
+        * In-depth study of current benchmark datasets for pose estimation to Generate a new large-scale dataset for fruits using software developed in the team: https://mahmoud-ali-fcis.github.io/6D-Pose-Estimation-Datasets/Datasets_statistical/.
+        * Testing recent methods as a baseline like FFB6D, FS-Net, G2L-Net, and PVNet on LINEMOD, YCB-V dataset.
+       
+  - title: Computer Vision Researcher 
     company: Hubert Curien Lab 
     company_url: 'https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html'
     company_logo: her
@@ -64,6 +79,7 @@ experience:
         Courses include:
         
         * Computer vision
+        * Machine learning
         * Autonomous robotics
         * Computer graphics
     
