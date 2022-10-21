@@ -50,7 +50,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-My name is Mahmoud Ali, and I'm a Computer Vision researcher interested in perception and scene understanding. My study for SOTA of 6D pose estimation is in this link: https://mahmoud-ali-fcis.github.io/6D-Object-Pose-Estimation/. I finished my Master's degree in M2 2021 at Grenoble INP - Ensimag in [MOSIG - GVR program], and I joined INRIA - Grenoble [MORPHEO team] as a Computer vision researcher under the supervision of Prof. Sergi Pujades. Moreover, I finished M1 from [VIBOT program] at Université de Bourgogne under the supervision of Prof. David Fofi. I ranked "7" / 30 students. 
+My name is Mahmoud Ali, and I'm a Computer Vision researcher interested in perception and scene understanding. I finished my Master's degree in M2 2021 at Grenoble INP - Ensimag in [MOSIG - GVR program], and I joined INRIA - Grenoble [MORPHEO team] as a Computer vision researcher under the supervision of Prof. Sergi Pujades. Moreover, I finished M1 from [VIBOT program] at Université de Bourgogne under the supervision of Prof. David Fofi. I ranked "7" / 30 students. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Mahmoud_Ali_CV2022.pdf" "newtab" >}}resumé{{< /staticref >}}.
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Recommendation Letters.pdf" "newtab" >}}recommendation letters{{< /staticref >}}.
