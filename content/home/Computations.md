@@ -23,10 +23,10 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
-  - title: Datathon DATACARE #4 -IA Santé
+  - title: Datathon DATACARE 4 -IA Santé
     company: Université de Bourgogne
     company_url: 'https://liris.cnrs.fr/'
-    company_logo: data3
+    company_logo: data41
     location: Dejon, France
     date_start: '2022-03-24'
     date_end: ''
@@ -36,7 +36,7 @@ experience:
         * The objective of this project is to promote the maintenance of verbal communication with Alzheimer's patients at an advanced stage of the disease.
         * Project video: https://drive.google.com/file/d/1eMhbisjcfbSGeNhJTtzxOqrneFsEYDWH/view?usp=sharing
         
-  - title: Datathon DATACARE #3 -IA Santé
+  - title: Datathon DATACARE 3 -IA Santé
     company: Université de Bourgogne
     company_url: 'https://liris.cnrs.fr/'
     company_logo: data3
@@ -48,7 +48,7 @@ experience:
         * Robonomics: developing an innovative solution in nursing homes with a system capable of performing a semantic similarity analysis on texts and           images by beam robot.
         * Project video: https://drive.google.com/file/d/1eMhbisjcfbSGeNhJTtzxOqrneFsEYDWH/view?usp=sharing
     
-  - title: atathon DATACARE #2 -IA Santé
+  - title: Datathon DATACARE 2 -IA Santé
     company: Université de Bourgogne
     company_url: 'https://liris.cnrs.fr/'
     company_logo: data2
@@ -61,7 +61,7 @@ experience:
         * Segment the heart from MRI  image.
         * Automatic determination of cardiac MRI cutting plans.
         
-  - title: Datathon DATACARE #1 -COVID19
+  - title: Datathon DATACARE 1 -COVID19
     company: Université de Bourgogne
     company_url: 'https://liris.cnrs.fr/'
     company_logo: data1
