@@ -23,6 +23,19 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
+  - title: Datathon DATACARE #4 -IA Santé
+    company: Université de Bourgogne
+    company_url: 'https://liris.cnrs.fr/'
+    company_logo: data4
+    location: Dejon, France
+    date_start: '2022-03-24'
+    date_end: ''
+    description: |2-
+    
+        * FERAD: Facial expression recognition in Alzheimer's disease.
+        * The objective of this project is to promote the maintenance of verbal communication with Alzheimer's patients at an advanced stage of the disease.
+        * Project video: https://drive.google.com/file/d/1eMhbisjcfbSGeNhJTtzxOqrneFsEYDWH/view?usp=sharing
+        
   - title: Datathon DATACARE #3 -IA Santé
     company: Université de Bourgogne
     company_url: 'https://liris.cnrs.fr/'
