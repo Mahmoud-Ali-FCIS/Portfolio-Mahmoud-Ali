@@ -26,7 +26,7 @@ experience:
   - title: Datathon DATACARE #4 -IA Santé
     company: Université de Bourgogne
     company_url: 'https://liris.cnrs.fr/'
-    company_logo: data4
+    company_logo: data3
     location: Dejon, France
     date_start: '2022-03-24'
     date_end: ''
