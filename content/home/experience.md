@@ -24,19 +24,32 @@ date_format: Jan 2006
 
 experience:
   - title: Computer Vision Researcher 
+    company: INRIA-STARS TEAM
+    company_url: 'https://www.inria.fr/fr/centre-inria-grenoble-rhone-alpes'
+    company_logo: inria
+    location: Sophia Antipolis, France
+    date_start: '2023-05-01'
+    date_end: '2024-04-30'
+    description: |2-
+        Responsibilities include:
+        
+        * Design cognitive vision systems for Activity Recognition. 
+        * Study long-term spatio-temporal activities performed by agents such as human beings, animals or vehicles in the physical world.
+    
+  - title: Computer Vision Researcher 
     company: LIRIS 
     company_url: 'https://liris.cnrs.fr/'
     company_logo: liris
     location: Lyon, France
     date_start: '2022-01-02'
-    date_end: '2022-11-01'
+    date_end: '2023-04-30'
     description: |2-
         Responsibilities include:
         
         * Research in perception and scene analysis and understanding of robot manipulation.
         * Study state of the art for 6D pose estimation problem: https://mahmoud-ali-fcis.github.io/6D-Object-Pose-Estimation/
         * In-depth study of current benchmark datasets for pose estimation to Generate a new large-scale dataset for fruits using software developed in the team: https://mahmoud-ali-fcis.github.io/6D-Pose-Estimation-Datasets/Datasets_statistical/.
-        * Testing recent methods as a baseline like FFB6D, FS-Net, G2L-Net, and PVNet on LINEMOD, YCB-V dataset.
+        * Testing recent methods as a baseline like FFB6D, FS-Net, G2L-Net, Densefusion, and PVNet on LINEMOD, YCB-V dataset and new dataset.
        
   - title: Computer Vision Researcher 
     company: Hubert Curien Lab 
@@ -55,7 +68,7 @@ experience:
         * Project video: https://drive.google.com/file/d/18PFYFkVipsYe8PayDIvoO_p-rS4A-o6m/viewAnalysing
 
   - title: Computer Vision Researcher 
-    company: INRIA 
+    company: INRIA-MORPHEO TEAM 
     company_url: 'https://www.inria.fr/fr/centre-inria-grenoble-rhone-alpes'
     company_logo: inria
     location: Grenoble, France
